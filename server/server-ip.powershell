@@ -1,0 +1,3 @@
+java = powershell.user?in [output"user_terminal"]
+%%$ 
+se<v.load>
